@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Advice-generator-app/static/css/main.4ea59806.css",
+    "main.js": "/Advice-generator-app/static/js/main.0a8669b7.js",
+    "static/js/787.fe2905bd.chunk.js": "/Advice-generator-app/static/js/787.fe2905bd.chunk.js",
+    "static/media/Manrope-Bold.ttf": "/Advice-generator-app/static/media/Manrope-Bold.15c3a2fdedaee1ebf773.ttf",
+    "static/media/diceFive.svg": "/Advice-generator-app/static/media/diceFive.6f47595d7070aa7ad88ab24c726a30da.svg",
+    "index.html": "/Advice-generator-app/index.html",
+    "static/media/patternDividerDesktop.svg": "/Advice-generator-app/static/media/patternDividerDesktop.15a640d6aa6b574149fd7afd9faf96e1.svg",
+    "static/media/patternDividerMobile.svg": "/Advice-generator-app/static/media/patternDividerMobile.c08c0fac5844a8dcd8ed4895e819217a.svg",
+    "main.4ea59806.css.map": "/Advice-generator-app/static/css/main.4ea59806.css.map",
+    "main.0a8669b7.js.map": "/Advice-generator-app/static/js/main.0a8669b7.js.map",
+    "787.fe2905bd.chunk.js.map": "/Advice-generator-app/static/js/787.fe2905bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea59806.css",
+    "static/js/main.0a8669b7.js"
+  ]
+}
