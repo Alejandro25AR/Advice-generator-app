@@ -1,0 +1,26 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('../../fonts/Manrope/Manrope-Bold.ttf');
+  font-style: normal;
+  font-weight: 800;
+}
+
+body {
+  font-family: 'Manrope';
+  font-weight: 800;
+}
+
+.global-container {
+  width: 100vw;  
+  height: 100vh;
+  
+  padding-top: 30vh;
+
+  background-color: #202632;
+}

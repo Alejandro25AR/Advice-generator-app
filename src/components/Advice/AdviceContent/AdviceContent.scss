@@ -1,0 +1,20 @@
+.advice__title {
+  margin: 0;
+  
+  font-size: 0.875rem;
+  letter-spacing: 3px;
+
+  color: #52ffa8;
+}
+
+.advice__text {
+  font-size: 1.5rem;
+
+  color: #cee3e9;
+
+  transition: color .5s ease-in;
+}
+
+.advice__text--opacity {
+  color: transparent
+}
